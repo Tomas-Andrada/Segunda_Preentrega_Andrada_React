@@ -1,0 +1,117 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Samsung Galaxy A20s",
+      "precio": 10,
+      "descripcion": "Un teléfono inteligente potente y asequible con una pantalla vibrante y una cámara versátil.",
+      "imagen": "https://pixelstore.com.ar/wp-content/uploads/2020/10/SAMSUNG-A20-S.jpg",
+      "stock": 4,
+      "id_categoria": 1
+    },
+    {
+      "id": 2,
+      "nombre": "Samsung Galaxy A32s",
+      "precio": 15,
+      "descripcion": "Disfruta de una experiencia móvil excepcional con este elegante teléfono que ofrece un rendimiento sólido y una pantalla impresionante.",
+      "imagen": "https://m.media-amazon.com/images/I/61ft-L7HnUL.jpg",
+      "stock": 5,
+      "id_categoria": 1
+    },
+    {
+      "id": 3,
+      "nombre": "Apple iPad",
+      "precio": 20,
+      "descripcion": "El iPad es más potente que nunca con su chip A14 Bionic, pantalla Retina de 10.2 pulgadas y compatibilidad con el Apple Pencil.",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_y_8PBiSmP5-vwHPyDXJMsRICvqDooEpygm8PgPlFKg&s",
+      "stock": 10,
+      "id_categoria": 1
+    },
+    {
+      "id": 4,
+      "nombre": "Teclado Logitech",
+      "precio": 25,
+      "descripcion": "Un teclado duradero y cómodo diseñado para mejorar tu productividad y brindarte una experiencia de escritura suave.",
+      "imagen": "https://acdn.mitiendanube.com/stores/599/410/products/log920004422-teclado-logitech-usb-k-120-1200x1200-41-8a103485d0000bc6d216905629418472-1024-1024.jpg",
+      "stock": 8,
+      "id_categoria": 1
+    },
+    {
+      "id": 5,
+      "nombre": "Licuadora Profesional",
+      "precio": 80,
+      "descripcion": "Prepara deliciosos batidos, jugos y sopas con esta licuadora de alto rendimiento que facilita la preparación de alimentos saludables.",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbr-E2KDtc80RLx_nQsHTiQ2hIQ3qXp-Z9tWS9tLHwKA&s",
+      "stock": 10,
+      "id_categoria": 2
+    },
+    {
+      "id": 6,
+      "nombre": "Aspiradora Inteligente",
+      "precio": 200,
+      "descripcion": "Mantén tu hogar limpio y ordenado con esta aspiradora inteligente que ofrece una potente succión y funciones avanzadas de limpieza.",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpqbSMUSnB_oECFYSd22_KevUcHch7P07agvatFgU7hw&s",
+      "stock": 10,
+      "id_categoria": 2
+    },
+    {
+      "id": 7,
+      "nombre": "Cafetera Programable",
+      "precio": 120,
+      "descripcion": "Disfruta de café recién hecho todas las mañanas con esta cafetera programable que te permite preparar café con solo presionar un botón.",
+      "imagen": "https://osterar.vteximg.com.br/arquivos/ids/155520-1000-1000/BVSTDC4401-013-1.jpg?v=636222628323370000",
+      "stock": 10,
+      "id_categoria": 2
+    },
+    {
+      "id": 8,
+      "nombre": "Robot de Cocina Multifunción",
+      "precio": 300,
+      "descripcion": "Simplifica tu vida en la cocina con este robot de cocina multifunción que puede picar, batir, mezclar y cocinar una variedad de platos.",
+      "imagen": "https://www.necxus.com.ar/products_image/33460/1000x1000_1.jpg",
+      "stock": 10,
+      "id_categoria": 2
+    },
+    {
+      "id": 9,
+      "nombre": "Silla de Oficina Ergonómica",
+      "precio": 25,
+      "descripcion": "Trabaja cómodamente durante horas con esta silla de oficina ergonómica que proporciona un excelente soporte para tu espalda y cuello.",
+      "imagen": "https://oechsle.vteximg.com.br/arquivos/ids/6908131-1000-1000/1617038918520.jpg?v=637787519146030000",
+      "stock": 10,
+      "id_categoria": 3
+    },
+    {
+      "id": 10,
+      "nombre": "Escritorio para Computadora",
+      "precio": 120,
+      "descripcion": "Crea un espacio de trabajo eficiente con este escritorio para computadora que ofrece un diseño elegante y funcionalidades prácticas.",
+      "imagen": "https://oechsle.vteximg.com.br/arquivos/ids/3866769-1000-1000/image-2a26010260a94661af54f529d61311db.jpg?v=637584736440570000",
+      "stock": 10,
+      "id_categoria": 3
+    },
+    {
+      "id": 11,
+      "nombre": "Teclado Mecánico RGB",
+      "precio": 80,
+      "descripcion": "Experimenta una escritura rápida y precisa con este teclado mecánico RGB que ofrece una respuesta táctil y retroiluminación personalizable.",
+      "imagen": "https://www.digital-storeweb.com.ar/wp-content/uploads/sites/18/2021/06/Teclado-Mecanico-Newvision.jpg",
+      "stock": 10,
+      "id_categoria": 3
+    },
+    {
+      "id": 12,
+      "nombre": "Monitor de 27 Pulgadas",
+      "precio": 300,
+      "descripcion": "Disfruta de imágenes nítidas y colores vibrantes con este monitor de 27 pulgadas que ofrece una experiencia de visualización envolvente.",
+      "imagen": "https://images.fravega.com/f1000/6b4f57e525f17071577824dad869f17a.jpg",
+      "stock": 10,
+      "id_categoria": 3
+    }
+  ],
+  "categoria": [
+    { "id_categoria": 1, "name": "Dispositivos Móviles" },
+    { "id_categoria": 2, "name": "Electrodomésticos y Tecnología para el Hogar" },
+    { "id_categoria": 3, "name": "Computadoras y Accesorios" }
+  ]
+}
